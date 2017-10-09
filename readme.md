@@ -1,4 +1,5 @@
 ![Flarum](http://flarum.org/img/logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fflarum.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fflarum?ref=badge_shield)
 
 **[Flarum](http://flarum.org) is free, open-source forum software with a focus on simplicity.** You can use Flarum to easily set up a discussion forum for your website.
 
@@ -34,3 +35,7 @@ If you want to hack on Flarum, you'll need to set up a development environment. 
 
 - Toby Zerner ([GitHub](http://github.com/tobscure), [Twitter](http://twitter.com/tobscure))
 - Franz Liedke ([GitHub](http://github.com/franzliedke), [Twitter](http://twitter.com/franzliedke))
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fflarum.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fflarum?ref=badge_large)
